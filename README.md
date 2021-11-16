@@ -1,4 +1,4 @@
-# NuGenomics-Project
+# Retreiving SNP and Pathway Data
 This project includes the code for the following tasks: 
 
 Given a list of genes, 
