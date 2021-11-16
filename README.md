@@ -1,4 +1,4 @@
-# Retreiving SNP and Pathway Data
+# Retrieving SNP and Pathway Data
 This project includes the code for the following tasks: 
 
 Given a list of genes, 
@@ -8,7 +8,7 @@ Given a list of genes,
 Table of Contents
 =================
 
-   * [NuGenomics-Project](#nugenomics-project)
+   * [Retrieving SNP and Pathway Data](#Retrieving-SNP-and-Pathway-Data)
       * [1. Retrieving SNP metadata](#1-Retrieving-SNP-metadata)
       * [2. Genes vs Pathways](#1-Genes-vs-Pathways)
 
